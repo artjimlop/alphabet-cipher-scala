@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mAlphabetCipherSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAlphabetCipherSpec[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return same character combined with A[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the encoded character when combined with Z[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the password with the rigth length[0m[0m
+[0m[[0minfo[0m] [0m[32m- should encode the message[0m[0m
+[0m[[0minfo[0m] [0m[32m- should decode a given character when combined with Z[0m[0m
+[0m[[0minfo[0m] [0m[32m- should decode the message[0m[0m
